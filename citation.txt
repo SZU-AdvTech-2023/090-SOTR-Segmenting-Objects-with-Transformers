@@ -1,0 +1,7 @@
+@inproceedings{REPO090,
+    author = "Guo, Ruohao and Niu, Dantong and Qu, Liao and Li, Zhenbo",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "7157--7166",
+    title = "{SOTR: Segmenting Objects with Transformers}",
+    year = "2021"
+}
